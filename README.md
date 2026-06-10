@@ -76,11 +76,20 @@ The data was cleaned, validated, transformed, and integrated into analytical dat
 
 ## Dashboard Preview
 
-Place your screenshots in the `images/` folder:
 
-- `images/executive_overview.png`
-- `images/product_performance.png`
-- `images/customer_insights.png`
+![Executive Overview](images/executive_overview.png)
+
+---
+
+## Product Performance Analysis
+
+![Product Performance Analysis](images/product_performance.png)
+
+---
+
+## Customer Insights
+
+![Customer Insights](images/customer_insights.png)
 
 ## Skills Demonstrated
 
