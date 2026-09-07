@@ -1,5 +1,11 @@
 # 📊 E-Commerce Sales Analytics
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![MySQL](https://img.shields.io/badge/MySQL-Business%20Queries-blue?logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 🚀 End-to-End Data Analytics Project
 
 Python • SQL • Power BI • Business Intelligence
