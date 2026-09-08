@@ -96,6 +96,12 @@ The data was cleaned, validated, transformed, and integrated into analytical dat
 
 ![Customer Insights](images/customer_insights.png)
 
+---
+
+![![Executive Insights & Recommendations](images/Executive_Insights_Recommendations.png)
+
+---
+
 ## Skills Demonstrated
 
 - Data Cleaning
