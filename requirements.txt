@@ -12,3 +12,7 @@ ipykernel>=6.0
 
 # Excel Support
 openpyxl>=3.1
+
+# MySQL
+SQLAlchemy>=2.0,<3.0
+mysql-connector-python>=9.0,<10.0
