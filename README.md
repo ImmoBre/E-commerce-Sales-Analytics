@@ -29,9 +29,8 @@ Raw Data → Data Cleaning → Data Validation → Data Integration → Explorat
 
 ```text
 ecommerce-data-analysis/
-├── notebooks/
+├── notebook/
 ├── dashboards/
-├── sql/
 ├── images/
 ├── data/
 ├── README.md
