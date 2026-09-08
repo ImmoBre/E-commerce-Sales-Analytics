@@ -6,7 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🚀 End-to-End Data Analytics Project
+## 🚀 Project overview
 
 Python • SQL • Power BI • Business Intelligence
 
