@@ -28,7 +28,7 @@ Raw Data → Data Cleaning → Data Validation → Data Integration → Explorat
 ## Repository Structure
 
 ```text
-ecommerce-data-analysis/
+E-commerce-Sales-Analytics//
 ├── Notebooks/
 ├── dashboards/
 ├── images/
@@ -67,10 +67,18 @@ The data was cleaned, validated, transformed, and integrated into analytical dat
 - Revenue by Brand
 - Units Sold by Category
 
-### Customer Insights
-- Customers by City
+### Customer & Engagement Insights
+
+- Customer Engagement Funnel
 - Customers by Gender
 - Customer Growth Trend
+
+### Executive Insights & Recommendations
+
+- Key findings
+- Strategic recommendations
+- Potential business value
+- Conclusion and limitations
 
 ## Key Business Insights
 
@@ -92,7 +100,7 @@ The data was cleaned, validated, transformed, and integrated into analytical dat
 
 ---
 
-## Customer Insights
+## Customer Insights & Engagement Insights
 
 ![Customer Insights](images/customer_insights.png)
 
