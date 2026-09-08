@@ -100,7 +100,7 @@ The data was cleaned, validated, transformed, and integrated into analytical dat
 
 ## Executive Insights & Recommendations
 
-![![Executive Insights & Recommendations](images/Executive_Insights_Recommendations.png)
+![Executive Insights & Recommendations](images/Executive_Insights_Recommendations.png)
 
 ---
 
