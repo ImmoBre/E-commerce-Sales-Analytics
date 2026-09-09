@@ -10,7 +10,7 @@
 
 Python • SQL • Power BI • Business Intelligence
 
-This project demonstrates a complete data analytics workflow, transforming raw e-commerce data into actionable business insights through data cleaning, validation, integration, exploratory analysis, SQL analysis, and interactive dashboards.
+In this project, I developed a complete data analytics workflow that transforms raw e-commerce data into actionable business insights through data cleaning, validation, integration, exploratory data analysis, SQL analysis, and interactive dashboard development.
 
 ## Project Workflow
 
